@@ -11,6 +11,7 @@ import phone from '../src/assets/phone.svg'
 import mail from '../src/assets/mail.svg'
 import fbacksmall from '../src/assets/footermb.svg'
 
+//CHICKEN WINGS
 
 const FooterComponent = () => {
     return (
